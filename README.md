@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I'm a Software Engineer at Microsoft.
+I'm a Software Engineer I think.
 
   
 ## 🛠 Skills
